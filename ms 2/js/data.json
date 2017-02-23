@@ -1,0 +1,25 @@
+{
+	"users": [
+     	{ "accountID": "AAA - 1238", 
+     		"totalAssets": 45121.90, 
+     		"percent": 0.07, 
+     		"changeAssets": 31.87
+     	},
+	    { "accountID": "AAA - 8122",
+	     	"totalAssets": 12335.79,
+	     	"percent": -0.03,
+	     	"changeAssets": -7.83
+		},
+     	{ "accountID": "AAA - 1812",
+	     	"totalAssets": 11900.34,
+	     	"percent": 0.0, 
+	     	"changeAssets": 0
+	     	
+     	},
+     	{ "accountID": "AAA - 3028",
+    	 	"totalAssets": 155.99,
+    	 	"percent": 0.0, 
+     		"changeAssets": 0
+     	}
+ 	]
+ }
